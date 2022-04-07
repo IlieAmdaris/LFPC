@@ -1,0 +1,4 @@
+Vn={S,A,B,C,D}
+Vt={a,b}
+P={S-aB,S-bA,S-A,A-B,A-Sa,A-bBA,A-b,B-b,B-bS,B-aD}
+

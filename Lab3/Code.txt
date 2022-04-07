@@ -1,0 +1,22 @@
+function void countTo(int n) {
+    for(int i = 0; i < n; i++) {
+        log("i equals" + i);
+    }
+    float rand = 0.5;
+    while(rand==0.5){
+        rand-=5;
+        break;
+    }
+    return p;
+}
+
+function int main() {
+    float count = countTo(10);
+    string s = "";
+    if(count >= 8) {
+        s = "bigger or equal to 8";
+    } else {
+        s = "correct answer";
+    }
+    return 0;
+}

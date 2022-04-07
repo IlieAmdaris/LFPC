@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ilie.todirascu\\Desktop\\Uni\\LFPC\\Lab2\\Lab2\\Lab2.csproj": {}
+    "C:\\Users\\ilie.todirascu\\Desktop\\Uni\\LFPC\\LfpcLabs\\Lab2\\Lab2\\Lab2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ilie.todirascu\\Desktop\\Uni\\LFPC\\Lab2\\Lab2\\Lab2.csproj": {
+    "C:\\Users\\ilie.todirascu\\Desktop\\Uni\\LFPC\\LfpcLabs\\Lab2\\Lab2\\Lab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ilie.todirascu\\Desktop\\Uni\\LFPC\\Lab2\\Lab2\\Lab2.csproj",
+        "projectUniqueName": "C:\\Users\\ilie.todirascu\\Desktop\\Uni\\LFPC\\LfpcLabs\\Lab2\\Lab2\\Lab2.csproj",
         "projectName": "Lab2",
-        "projectPath": "C:\\Users\\ilie.todirascu\\Desktop\\Uni\\LFPC\\Lab2\\Lab2\\Lab2.csproj",
+        "projectPath": "C:\\Users\\ilie.todirascu\\Desktop\\Uni\\LFPC\\LfpcLabs\\Lab2\\Lab2\\Lab2.csproj",
         "packagesPath": "C:\\Users\\ilie.todirascu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ilie.todirascu\\Desktop\\Uni\\LFPC\\Lab2\\Lab2\\obj\\",
+        "outputPath": "C:\\Users\\ilie.todirascu\\Desktop\\Uni\\LFPC\\LfpcLabs\\Lab2\\Lab2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ilie.todirascu\\AppData\\Roaming\\NuGet\\NuGet.Config",

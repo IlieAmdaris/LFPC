@@ -7,7 +7,7 @@ namespace Lab1
     {
         static void Main(string[] args)
         {
-            Grammar grammar = new("C:\\Users\\ilie.todirascu\\Desktop\\Uni\\LFPC\\Lab1\\Grammar.txt");
+            Grammar grammar = new("C:\\Users\\ilie.todirascu\\Desktop\\Uni\\LFPC\\LfpcLabs\\Lab1\\Grammar.txt");
             Console.WriteLine(grammar.TestWord("dd"));
             grammar.PrintQMapping();
         }

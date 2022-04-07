@@ -19,6 +19,7 @@ namespace Lab2
             P = GetGrammarData("P", fileName);
             F = GetGrammarData("F", fileName);
             Rules = CreateAutomatonRules();
+            CreateDfaRules("Q0");
         }
         private string[] GetGrammarData(string notation, string fileName)
         {
@@ -52,7 +53,7 @@ namespace Lab2
                 Console.WriteLine();
             }
         }
-        public Dictionary<string, List<KeyValuePair<char, string>>> CreateAutomatonRules()
+        private Dictionary<string, List<KeyValuePair<char, string>>> CreateAutomatonRules()
         {
             var derivationRules = new Dictionary<string, List<KeyValuePair<char, string>>>();
             foreach (string rule in P)
@@ -133,6 +134,22 @@ namespace Lab2
             }
             return false;
         }
+        public void UpdateDfaRules()
+        {
+            //c# doesn't support iterating over a list and updating it at the same time this is a workaround
+            var DfaAutomatonKeys = DfaAutomaton.Keys.ToArray();
+            foreach (var key in DfaAutomatonKeys)
+            {
+                foreach (var newState in DfaAutomaton[key])
+                {
+                    if (!DfaAutomaton.ContainsKey(newState.Value) && !string.IsNullOrEmpty(newState.Value))
+                    {
+                        CreateDfaRules(newState.Value);
+
+                    }
+                }
+            }
+        }
         public void CreateDfaRules(string state)
         {
             if (DfaAutomaton.ContainsKey(state))
@@ -183,13 +200,7 @@ namespace Lab2
                 }
             }
             DfaAutomaton.Add(state, finalRow);
-            foreach (var item in finalRow)
-            {
-                if (!DfaAutomaton.ContainsKey(item.Value) && !string.IsNullOrEmpty(item.Value))
-                {
-                    CreateDfaRules(item.Value);
-                }
-            }
+            UpdateDfaRules();
         }
     }
 }

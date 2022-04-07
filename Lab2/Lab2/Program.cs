@@ -6,10 +6,9 @@ namespace Lab2
     {
         static void Main(string[] args)
         {
-            NfaToDfa nfaToDfa = new("C:\\Users\\ilie.todirascu\\Desktop\\Uni\\LFPC\\Lab2\\Grammar.txt");
+            NfaToDfa nfaToDfa = new("C:\\Users\\ilie.todirascu\\Desktop\\Uni\\LFPC\\LfpcLabs\\Lab2\\Grammar.txt");
             nfaToDfa.PrintRules(nfaToDfa.Rules);
             Console.WriteLine();
-            nfaToDfa.CreateDfaRules("Q0");
             nfaToDfa.PrintRules(nfaToDfa.DfaAutomaton);
             Console.WriteLine(nfaToDfa.TestWord("aaabbaaa"));
         }

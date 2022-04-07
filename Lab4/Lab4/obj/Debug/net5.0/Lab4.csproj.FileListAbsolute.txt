@@ -1,0 +1,16 @@
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\Lab4\Lab4\bin\Debug\net5.0\Lab4.exe
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\Lab4\Lab4\bin\Debug\net5.0\Lab4.deps.json
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\Lab4\Lab4\bin\Debug\net5.0\Lab4.runtimeconfig.json
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\Lab4\Lab4\bin\Debug\net5.0\Lab4.runtimeconfig.dev.json
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\Lab4\Lab4\bin\Debug\net5.0\Lab4.dll
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\Lab4\Lab4\bin\Debug\net5.0\ref\Lab4.dll
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\Lab4\Lab4\bin\Debug\net5.0\Lab4.pdb
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\Lab4\Lab4\obj\Debug\net5.0\Lab4.csproj.AssemblyReference.cache
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\Lab4\Lab4\obj\Debug\net5.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\Lab4\Lab4\obj\Debug\net5.0\Lab4.AssemblyInfoInputs.cache
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\Lab4\Lab4\obj\Debug\net5.0\Lab4.AssemblyInfo.cs
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\Lab4\Lab4\obj\Debug\net5.0\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\Lab4\Lab4\obj\Debug\net5.0\Lab4.dll
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\Lab4\Lab4\obj\Debug\net5.0\ref\Lab4.dll
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\Lab4\Lab4\obj\Debug\net5.0\Lab4.pdb
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\Lab4\Lab4\obj\Debug\net5.0\Lab4.genruntimeconfig.cache

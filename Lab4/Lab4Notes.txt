@@ -1,0 +1,34 @@
+test for all non terminal symbols
+if nonTerminal has a terminal as its derivation add it to a list productive
+
+loop through all the non terminal symbols that aren't equal to
+the ones in the productive list
+if their derivation contains a nonterminal symbol that is contained in 
+the productive list add it to the productive list
+
+1.First step generate X states
+2.Replace derivations where the first character is a terminal symbol with 
+an X state
+3. Make dictionaries for your previous transformations
+like 'a' X1
+4.at this point every first char in derivation is going to be either 
+Xi or a state, or since you're adding the X to Vn all of them 
+are non terminal or they are contained in Vt
+5.Now we need to create Y states
+6.We take all the characters from the derivation[1..] aside from the first
+and make a function special for them
+7.if you can take 2 characters Create a Y state and
+check if the first character of those 2 characters 
+has a key in the dictionaries for X if so create an Y state 
+that equals the value from the dictionary and the other character
+add them to a list of Y states and to a dictionary of Y states with
+their respective value
+if there is more than 1 character left repeat step 7
+otherwise for every second Y create another Y that
+equals the previous 2 and update the y dictionary
+add them to Vn and to P
+then create an Y = to last Y from dictionary or from list and the remaining
+character if it is not in X dict or x[char] if it is
+8.now loop over p and for every derivation[1..] 
+derivation = derivation[0] +dictionary of Y[derivation[1..]]
+

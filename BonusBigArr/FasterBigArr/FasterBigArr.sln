@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FasterBigArr", "FasterBigArr\FasterBigArr.csproj", "{C0915C7B-5C8F-47CB-85B8-6AF54DA34FDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0915C7B-5C8F-47CB-85B8-6AF54DA34FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0915C7B-5C8F-47CB-85B8-6AF54DA34FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0915C7B-5C8F-47CB-85B8-6AF54DA34FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0915C7B-5C8F-47CB-85B8-6AF54DA34FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69608B17-F9F7-40F5-A575-B4FD77285895}
+	EndGlobalSection
+EndGlobal

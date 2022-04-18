@@ -1,0 +1,16 @@
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\BonusBigArr\FasterBigArr\FasterBigArr\bin\Debug\net5.0\FasterBigArr.exe
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\BonusBigArr\FasterBigArr\FasterBigArr\bin\Debug\net5.0\FasterBigArr.deps.json
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\BonusBigArr\FasterBigArr\FasterBigArr\bin\Debug\net5.0\FasterBigArr.runtimeconfig.json
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\BonusBigArr\FasterBigArr\FasterBigArr\bin\Debug\net5.0\FasterBigArr.runtimeconfig.dev.json
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\BonusBigArr\FasterBigArr\FasterBigArr\bin\Debug\net5.0\FasterBigArr.dll
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\BonusBigArr\FasterBigArr\FasterBigArr\bin\Debug\net5.0\ref\FasterBigArr.dll
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\BonusBigArr\FasterBigArr\FasterBigArr\bin\Debug\net5.0\FasterBigArr.pdb
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\BonusBigArr\FasterBigArr\FasterBigArr\obj\Debug\net5.0\FasterBigArr.csproj.AssemblyReference.cache
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\BonusBigArr\FasterBigArr\FasterBigArr\obj\Debug\net5.0\FasterBigArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\BonusBigArr\FasterBigArr\FasterBigArr\obj\Debug\net5.0\FasterBigArr.AssemblyInfoInputs.cache
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\BonusBigArr\FasterBigArr\FasterBigArr\obj\Debug\net5.0\FasterBigArr.AssemblyInfo.cs
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\BonusBigArr\FasterBigArr\FasterBigArr\obj\Debug\net5.0\FasterBigArr.csproj.CoreCompileInputs.cache
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\BonusBigArr\FasterBigArr\FasterBigArr\obj\Debug\net5.0\FasterBigArr.dll
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\BonusBigArr\FasterBigArr\FasterBigArr\obj\Debug\net5.0\ref\FasterBigArr.dll
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\BonusBigArr\FasterBigArr\FasterBigArr\obj\Debug\net5.0\FasterBigArr.pdb
+C:\Users\ilie.todirascu\Desktop\Uni\LFPC\LfpcLabs\BonusBigArr\FasterBigArr\FasterBigArr\obj\Debug\net5.0\FasterBigArr.genruntimeconfig.cache
